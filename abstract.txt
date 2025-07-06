@@ -1,1 +1,18 @@
-abstract
+ABSTRACT 
+Breast cancer remains one of the leading causes of mortality among women 
+globally, highlighting the urgent need for accessible and non-invasive screening 
+technologies. While mammography is the clinical standard, its limitations—such 
+as radiation exposure, discomfort, and reduced effectiveness in dense breast 
+tissue—necessitate alternative approaches. This project proposes a cost
+effective, portable imaging system based on Near-Infrared Spectroscopy (NIRS) 
+and Diffuse Optical Tomography (DOT) for early breast cancer detection. 
+Utilizing affordable components like the ESP32 microcontroller and BPW34 
+photodiodes, the prototype simulates breast tissue scanning through a phantom 
+model. The system captures near-infrared light interactions with tissue, 
+processes the data using Arduino, and visualizes it through MATLAB-generated 
+heatmaps. These heatmaps highlight areas of increased absorption, potentially 
+indicating tumor presence. Performance analysis demonstrates high reliability 
+and user-friendliness, with strong potential for adaptation into wearable or 
+home-based screening tools. By bridging the gap between advanced diagnostics 
+and low-resource environments, this system aims to democratize early breast 
+cancer detection and improve health outcomes.
